@@ -1,89 +1,59 @@
 ---
-title: "Course Title 1"
-date: 2022-03-10
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Prof. Name"
+title: "Bachelor: History of Sciences"
+
+author: "Kumarmangalam Patravali"
 description: "This graduate course presents things." 
 summary: "This graduate course presents various methods and results." 
 cover:
-    image: "course1.png"
-    alt: "Figure caption"
+    image: "Eureka_Gauss.png"
+    alt: "Author: Göttinger Digitalisierungszentrum"
     relative: false
-editPost:
-    URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
-    Text: "YouTube playlist"
-showToc: true
-disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+## Spectrum of courses attended
 
 This course covers research topics related to things. It tries to answer several questions: 
 
-+ Why this? 
-+ Why that? 
-+ What about this? 
-+ What about that?
++ Summer 2024:
+
+   (I)  Study Group for Historical Epistemology: A History of Science for the Future? 
+        (Workshop held over a span of five days in Giessen, marking the retirement of Prof. Dr. Moritz Epple.
+ 
+   (II) Seminar: Philosophy of Mathematics from an historical perspective
+
+ 
++ Winter 2023/24:
+
+   (I)  Seminar: Formation of Scholars in Pharaonic Egypt 
+
+   (II) Seminar: Modernisation conflicts and crises in the sciences of the Weimar Republic. 
 
 
----
++ Summer 2023:
 
-## Part 1
+   (I)  Discussion: What is History of Science? 
 
-This section reviews things.
+   (II) Seminar: Science and the Enlightenment: An Introduction using the example of Jean le Rond D’Alembert
 
-##### Lecture videos
++ Winter 2022/23: Knowledge for all? Programme, texts and contexts of the “Vienna Circle
 
-1. [Video Title 1](https://youtu.be/0rbmjemhy38)
-2. [Video Title 2](https://youtu.be/a2tbm5ljZJM)
-3. [Video Title 3](https://youtu.be/bz2mXgo7Kj0)
-4. [Video Title 4](https://youtu.be/rA4S9lFiU3o)
++ Summer 2022: Scientific representations of matter in the 19th and early 20th centuries
 
-##### Lecture notes
++ Winter 2021/22:
 
-+ [Lecture Note Title 1](lecture1.pdf)
+   (I)  Seminar: Georg Friedrich Nicolais "The Biology of War" 
 
-##### Readings
+   (II) Lecture: Science from the Middle Ages to the Early Modern Period
 
-+ [Paper Title 1](https://doi.org/10.1257/aer.102.4.1721) – This paper finds things.
-+ [Paper Title 2](https://doi.org/10.1257/mac.6.1.190) – This paper reviews things.
-+ [Paper Title 3](https://doi.org/10.1093/qje/qjv006) – This paper reviews more things and derives some results.
++ Summer 2021:
 
-##### Homework
-
-+ [Quiz 1](quiz1.pdf)
-+ [Problem set 1](ps1.pdf)
-
----
-
-## Part 2
-
-This section introduces other things.
-
-##### Lecture videos
-
-5. [Video Title 5](https://youtu.be/tU0dtS9iiOk)
-6. [Video Title 6](https://youtu.be/GMIKykwvrGI)
-7. [Video Title 7](https://youtu.be/79MSNfp1rw0)
-8. [Video Title 8](https://youtu.be/zEShE10YiYo)
-9. [Video Title 9](https://youtu.be/SNlHsn7isog)
-
-##### Lecture notes
-
-+ [Lecture Note Title 2](lecture2.pdf)
-
-##### Readings
-
-+ [Paper Title 4](https://doi.org/10.1093/restud/rdy030) – This paper shows stuff.
-+ [Paper Title 5](https://doi.org/10.1093/jeea/jvaa041) – This paper shows other things.
-
-##### Homework
-
-+ [Quiz 2](quiz2.pdf)
-+ [Problem Set 2](ps2.pdf)
+   (I)  Lecture: Science in Ancient Cultures
+ 
+   (II) Class Seminar: Galileo in context
 
 ---
+
 
 ## Part 3
 

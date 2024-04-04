@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Data on Prof. Name</title>
-    <link>https://pascalmichaillat.org/hugo-website/data/</link>
-    <description>Recent content in Data on Prof. Name</description>
+    <title>Data on Kumarmangalam Patravali</title>
+    <link>https://nanotheprogrammer.github.io/data/</link>
+    <description>Recent content in Data on Kumarmangalam Patravali</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/data/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://nanotheprogrammer.github.io/data/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dataset Title</title>
-      <link>https://pascalmichaillat.org/hugo-website/data/data1/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <title>Prospective Historian of Mathematics and Physics</title>
+      <link>https://nanotheprogrammer.github.io/data/data1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/data/data1/</guid>
-      <description>This dataset contains things.</description>
+      <guid>https://nanotheprogrammer.github.io/data/data1/</guid>
+      <description>And thus it began I was once gently rowing through a small lake somewhere in Sporades, when the warm sunshine of that merry spring made me ponder on a question: Why humans collectively never noticed a certain pattern in the fact that a ‘rising’ sun can never be seen making any movement patently perpendicular to either of the two horizons (i. e. the horizon of its rise and that of its set)?</description>
     </item>
     
   </channel>

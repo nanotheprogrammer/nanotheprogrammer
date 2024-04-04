@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://nanotheprogrammer.github.io/" 
+title: Kumarmangalam Patravali
 paginate: 20
 theme: PaperMod
 
@@ -17,7 +17,7 @@ menu:
         - name: Courses
           url: courses/
           weight: 2
-        - name: Data
+        - name: My life so far
           url: data/
           weight: 3 
         - name: Newsletter
@@ -50,44 +50,44 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Prof. Name
+          title: Kumarmangalam Patravali
+          subtitle: "I am studying (and researching on) History of Mathematics and Physics. Apart from that, I am always somewhere near good food, Mediterranian wine & women, logic & semantics and pure mathematics."
+          imageUrl: "zoomed.jpeg"
+          imageWidth: 200
+          imageHeight: 200
+          imageTitle: Me on the island of Skiathos
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
+            - name: Courses taken
               url: courses/
-            - name: Data
+            - name: My life so far
               url: data/
             - name: Newsletter
-              url: https://pmichaillat.substack.com
+              url: https://kumarmangalam.substack.com
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: lebenslauf_Patravali_standOkt23.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:kumarmangalamjr@gmail.com
         - name: Location
           url: location/
-        - name: Office Hours
+        - name: Schedule 
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?view_op=list_works&hl=de&user=-anR9ZAAAAAJ
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://www.youtube.com/@ThinklikeThales-pd7sq
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/nanotheprogrammer
         - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://kumarmangalam.substack.com
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/KumarmangalamP4
 
     assets:
         disableHLJS: true
@@ -96,7 +96,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Home"
       icon: favicon.ico
       iconHeight: 18
 
