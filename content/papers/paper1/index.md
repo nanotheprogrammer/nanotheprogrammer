@@ -4,7 +4,7 @@ author: "Kumarmangalam Patravali"
 description: "This paper shows things. Published in Journal Name, 2012." 
 summary: "This paper shows things using various techniques and data." 
 cover:
-    image: "zhalak.gif"
+    image: "zhalak1.gif"
     alt: "Image caption"
     relative: false
 editPost:
